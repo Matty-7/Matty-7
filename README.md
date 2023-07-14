@@ -5,20 +5,6 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 125.7 kB Used in GitHub's Storage 
- > 
-> 🏆 218 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -67,23 +53,6 @@ dyn_flower_android_drf   10 mins             █░░░░░░░░░░�
 💻 Operating System: 
 Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Kotlin                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-PureBasic                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Matty-7/Matty-7/main/assets/bar_graph.png)
-
 
  Last Updated on 14/07/2023 15:34:32 UTC
 <!--END_SECTION:waka-->
