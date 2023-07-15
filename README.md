@@ -5,7 +5,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 <table>
   <tr>
     <td>
-      <h3>Languages&Libraries</h3>
+      <h3 align="center">Languages & Libraries</h3>
       <p align="center">
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=white" />
@@ -28,7 +28,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       </p>
     </td>
     <td>
-      <h3>Tools</h3>
+      <h3 align="center">Tools</h3>
       <p align="center">
         <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
         <img alt="GPT-4" src="https://img.shields.io/badge/-GPT4-9cf?style=flat-square&logo=OpenAI&logoColor=white" />
