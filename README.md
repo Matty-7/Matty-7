@@ -25,7 +25,6 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
         <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" />
-        <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FF6C37?style=flat-square&logo=SwiftUI&logoColor=white" />
       </p>
     </td>
     <td>
@@ -33,7 +32,6 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       <p align="center">
         <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
         <img alt="GPT-4" src="https://img.shields.io/badge/-GPT4-9cf?style=flat-square&logo=OpenAI&logoColor=white" />
-        <img alt="Midjourney" src="https://img.shields.io/badge/-Midjourney-0076A8?style=flat-square&logo=Midjourney" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
