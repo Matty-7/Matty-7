@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+  # Runs at 12am Beijing time
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,3 +23,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
+          TIMEZONE: "Asia/Shanghai"
