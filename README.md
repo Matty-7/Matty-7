@@ -1,5 +1,7 @@
 E-mail: mattyhuan7@gmail.com / jh730@duke.edu 
 
+<details>
+  <summary>WakaTime-Metrics</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2055%20mins-blue)
 
@@ -45,4 +47,4 @@ dyn_flower_android_drf   10 mins             █░░░░░░░░░░�
 
  Last Updated on 14/07/2023 18:39:19 UTC
 <!--END_SECTION:waka-->
-
+</details>
