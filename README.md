@@ -18,7 +18,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
         <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
         <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-        <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=MathWorks&logoColor=white" />
+        <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=MATLAB&logoColor=white" />
         <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-C5E770?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
         <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
