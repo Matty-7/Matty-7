@@ -5,7 +5,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 <table>
   <tr>
     <td>
-      <h3 align="center">Languages I use</h3>
+      <h3>Languages I use</h3>
       <p align="center">
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -20,7 +20,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       </p>
     </td>
     <td>
-      <h3 align="center">Tools I use</h3>
+      <h3>Tools I use</h3>
       <p align="center">
         <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -37,7 +37,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       </p>
     </td>
     <td>
-      <h3 align="center">Python Libraries I work with</h3>
+      <h3>Python Libraries I work with</h3>
       <p align="center">
         <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
         <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
