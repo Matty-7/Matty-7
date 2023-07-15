@@ -3,7 +3,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 <details>
   <summary>WakaTime-Metrics</summary>
 <!--START_SECTION:waka-->
-
+<br>
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2055%20mins-blue)
 
