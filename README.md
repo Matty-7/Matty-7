@@ -32,7 +32,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       <p align="center">
         <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
         <img alt="GPT-4" src="https://img.shields.io/badge/-GPT4-9cf?style=flat-square&logo=OpenAI&logoColor=white" />
-        <img alt="Bing" src="https://img.shields.io/badge/-Bing-008373?style=flat-square&logo=edge&logoColor=white" />
+        <img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
