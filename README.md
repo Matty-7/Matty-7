@@ -29,6 +29,10 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
         <img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="conda" src="https://img.shields.io/badge/-conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+        <img alt="pip" src="https://img.shields.io/badge/-pip-3775A9?style=flat-square&logo=pypi&logoColor=white" />
+        <img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-FF7F00?style=flat-square&logo=homebrew&logoColor=white" />
+        <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-3B2D5A?style=flat-square&logo=python-poetry&logoColor=white" />
         <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
         <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
         <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white" />
