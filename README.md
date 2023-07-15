@@ -25,6 +25,8 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
         <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" />
+        <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logoColor=white" />
+        <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logoColor=white" />
       </p>
     </td>
     <td>
