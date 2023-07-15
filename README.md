@@ -8,7 +8,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       <h3>Languages I use</h3>
       <p align="center">
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Oracle&logoColor=white" />
         <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
         <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
         <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
