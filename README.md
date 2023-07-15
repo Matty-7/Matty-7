@@ -22,10 +22,12 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
     <td>
       <h3>Tools I use</h3>
       <p align="center">
+        <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
         <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
         <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
