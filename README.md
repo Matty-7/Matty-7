@@ -6,7 +6,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <tr>
     <td>
       <h3>Languages I use</h3>
-      <p>
+      <p align="center">
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
         <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
@@ -19,7 +19,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
     </td>
     <td>
       <h3>Tools I use</h3>
-      <p>
+      <p align="center">
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -34,7 +34,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
     </td>
     <td>
       <h3>Python Libraries I work with</h3>
-      <p>
+      <p align="center">
         <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
         <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
         <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
