@@ -4,7 +4,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 
 <table>
   <tr>
-    <td>
+    <td style="text-align:center">
       <h3>Languages I use</h3>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
