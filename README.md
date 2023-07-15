@@ -16,19 +16,29 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 
 <h3>Tools I use</h3>
 <p>
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
+<h3>Python Libraries I work with</h3>
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" />
+</p>
 
 <details>
   <summary>WakaTime-Metrics</summary>
