@@ -23,6 +23,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       <h3>Tools I use</h3>
       <p align="center">
         <img alt="macOS" src="https://img.shields.io/badge/-macOS-999999?style=flat-square&logo=Apple&logoColor=white" />
+        <img alt="GPT-4" src="https://img.shields.io/badge/-GPT4-9cf?style=flat-square" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
