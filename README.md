@@ -2,7 +2,7 @@
 
 E-mail: mattyhuan7@gmail.com / jh730@duke.edu 
 
-<table style="display: flex; align-items: center; height: 100%;">
+<table>
   <tr>
     <td>
       <h3 align="center">Languages I use</h3>
