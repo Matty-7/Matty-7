@@ -2,9 +2,9 @@
 
 E-mail: mattyhuan7@gmail.com / jh730@duke.edu 
 
-<table align="center">
+<table>
   <tr>
-    <td valign="top" width="33%">
+    <td>
       <h3>Languages I use</h3>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -17,7 +17,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td>
       <h3>Tools I use</h3>
       <p>
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -32,7 +32,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td>
       <h3>Python Libraries I work with</h3>
       <p>
         <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
