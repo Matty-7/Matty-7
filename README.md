@@ -2,7 +2,7 @@
 
 E-mail: mattyhuan7@gmail.com / jh730@duke.edu 
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3>Languages I use</h3>
