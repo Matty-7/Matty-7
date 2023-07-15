@@ -4,7 +4,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=black" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
