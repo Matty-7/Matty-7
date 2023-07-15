@@ -1,3 +1,11 @@
+<style>
+  .badge-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+</style>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 E-mail: mattyhuan7@gmail.com / jh730@duke.edu 
