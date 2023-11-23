@@ -63,6 +63,8 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2055%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -100,6 +102,6 @@ Stats401-FinalProject    8 mins              ████░░░░░░░�
 ```
 
 
- Last Updated on 11/22/2023 16:02:40 UTC
+ Last Updated on 11/23/2023 16:02:43 UTC
 <!--END_SECTION:waka-->
 </details>
