@@ -63,7 +63,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -90,14 +90,14 @@ Sunday                   63 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ████████████████████████░   95.44 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Python                   3 hrs 21 mins       ████████████████████████░   97.13 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-CS304-SpeechRecognition  1 hr 18 mins        █████████████████████████   100.00 % 
+CS304-SpeechRecognition  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/18/2024 16:02:44 UTC
+ Last Updated on 01/19/2024 16:02:36 UTC
 <!--END_SECTION:waka-->
 </details>
