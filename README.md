@@ -93,14 +93,13 @@ Sunday                   150 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TennisProject            3 mins              █████████████░░░░░░░░░░░░   51.16 % 
-CS302-ComputerVision     3 mins              ████████████░░░░░░░░░░░░░   48.84 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/13/2024 16:02:44 UTC
+ Last Updated on 05/14/2024 16:02:34 UTC
 <!--END_SECTION:waka-->
 </details>
