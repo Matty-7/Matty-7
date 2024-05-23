@@ -66,7 +66,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2046%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -93,13 +93,18 @@ Sunday                   150 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               42 mins             ██████████████████░░░░░░░   73.57 % 
+HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+self-driving-car         57 mins             █████████████████████████   99.08 % 
+CS302-ComputerVision     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
- Last Updated on 05/22/2024 16:02:33 UTC
+ Last Updated on 05/23/2024 16:02:43 UTC
 <!--END_SECTION:waka-->
 </details>
