@@ -43,7 +43,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="GPT-4" src="https://img.shields.io/badge/-GPT4-9cf?style=flat-square&logo=OpenAI&logoColor=white" />
         <img alt="Emacs" src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=GNU%20Emacs&logoColor=white" />
         <img alt="Intel FPGA" src="https://img.shields.io/badge/-Intel%20FPGA-0071C5?style=flat-square&logo=Intel&logoColor=white" />
-        <img alt="Quartus Prime" src="https://img.shields.io/badge/-Quartus%20Prime-1575F9?style=flat-square&logo=Altera&logoColor=white" />
+        <img alt="Quartus Prime" src="https://img.shields.io/badge/-Quartus%20Prime-1575F9?style=flat-square&logo=quartus-prime&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
