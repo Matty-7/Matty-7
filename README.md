@@ -9,7 +9,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
       <p align="center">
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
         <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img alt="Verilog" src="https://img.shields.io/badge/-Verilog-CCCC00?style=flat-square&logoColor=white" />
+        <img alt="Verilog" src="https://custom-icon-badges.demolab.com/badge/-Verilog-CCCC00?style=flat-square&logo=verilog&logoColor=black" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Oracle&logoColor=white" />
         <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
         <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
