@@ -19,7 +19,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
         <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
         <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
         <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-        <img alt="C#" src="https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
         <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MATLAB&logoColor=white" />
         <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-C5E770?style=flat-square&logo=gnu-bash&logoColor=white" />
