@@ -97,14 +97,13 @@ Sunday                   506 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 mins             ██████████████████░░░░░░░   73.60 % 
-C++                      3 mins              ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cpp_playground           15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/13/2025 16:03:25 UTC
+ Last Updated on 05/14/2025 16:03:42 UTC
 <!--END_SECTION:waka-->
 </details>
