@@ -70,7 +70,7 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -97,13 +97,16 @@ Sunday                   520 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+MDX                      17 mins             ████████████████░░░░░░░░░   65.34 % 
+Markdown                 8 mins              ████████░░░░░░░░░░░░░░░░░   33.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mintlify-docs            26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/23/2025 16:05:23 UTC
+ Last Updated on 06/24/2025 16:05:11 UTC
 <!--END_SECTION:waka-->
 </details>
