@@ -70,7 +70,9 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%202%20mins-blue)
 
- Last Updated on 10/03/2025 16:04:14 UTC
+
+ Last Updated on 10/04/2025 16:03:15 UTC
 <!--END_SECTION:waka-->
 </details>
