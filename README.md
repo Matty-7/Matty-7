@@ -70,7 +70,48 @@ E-mail: mattyhuan7@gmail.com / jh730@duke.edu
   <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2049%20mins-blue?style=flat)
 
- Last Updated on 07/28/2026 17:19:19 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1005 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌆 Daytime                470 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌃 Evening                805 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+🌙 Night                  1046 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   509 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Wednesday                399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 526 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Sunday                   615 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 07/29/2026 17:05:01 UTC
 <!--END_SECTION:waka-->
 </details>
